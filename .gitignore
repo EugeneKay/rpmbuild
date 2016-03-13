@@ -1,0 +1,10 @@
+#
+# .gititgnore
+# EugeneKay/rpmbuild
+#
+
+BUILD/
+BUILDROOT/
+RPMS/
+SOURCES/
+SRPMS/
