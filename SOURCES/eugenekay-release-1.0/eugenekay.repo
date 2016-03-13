@@ -1,0 +1,5 @@
+[virtualbox]
+name=EugeneKay
+baseurl=https://eugenekay.com/repo/el-$releasever-$basearch
+enabled=1
+gpgcheck=0
