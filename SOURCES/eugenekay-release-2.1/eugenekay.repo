@@ -1,4 +1,4 @@
-[virtualbox]
+[eugenekay]
 name=EugeneKay
 baseurl=https://eugenekay.com/repo/el-$releasever-$basearch
 enabled=1
