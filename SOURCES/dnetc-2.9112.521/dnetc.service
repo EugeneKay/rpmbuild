@@ -1,0 +1,11 @@
+[Unit]
+Description=distributed.net client
+
+[Service]
+Type=simple
+User=dnetc
+ExecStart=/usr/bin/dnetc -ini /etc/dnetc.ini
+KillSignal=2
+
+[Install]
+WantedBy=multiuser.target
